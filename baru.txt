@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 saya colaborator
+=======
+saya master
+>>>>>>> a1edec369337cf19514382663595c39636cb7a57
